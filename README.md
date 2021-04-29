@@ -1,2 +1,2 @@
 # BasicOCR
-OCR Application utilizing Google Cloud Vision
+TextOCR Application utilizing Google Cloud Vision
